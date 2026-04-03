@@ -2,15 +2,15 @@
 
 ## 📌 Overview
 
-This project predicts customer churn using machine learning.
+This is a regression machine learning project performed on kaggle datasets. 
 
 ## 🎯 Objective
 
-Help businesses identify customers likely to leave.
+Predict temperature in Bern in 12h, 24h, 48h using data from other swiss cities.
 
 ## 📊 Dataset
-
-Kaggle dataset: https://www.kaggle.com/datasets/XXXX
+Kaggle train dataset : https://www.kaggle.com/datasets/alhess/training
+Kaggle test dataset: https://www.kaggle.com/datasets/alhess/final-test
 
 ## 🛠️ Tools
 
@@ -24,7 +24,3 @@ Kaggle dataset: https://www.kaggle.com/datasets/XXXX
 pip install -r requirements.txt
 ```
 
-## 📁 Structure
-
-* notebooks/: analysis
-* src/: scripts
